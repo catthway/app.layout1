@@ -1,6 +1,6 @@
-#App Layout
+##App Layout
   
-  Sistema desenvolvido como atividade vinculada ao Módulo 2 do curso Desenvolvimento WEB.
+   Atividade vinculada ao Módulo 2 do curso Desenvolvimento WEB.
   
 ## Getting Started This project is a starting point for a Flutter application.
   
