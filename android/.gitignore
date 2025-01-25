@@ -1,0 +1,13 @@
+gradle-wapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+
+# remember to never publicly shareyour keystore.
+# See https://flutter.dev/to/reference-keystore
+Keiproperties
+**/*.keystore
+**/*.jks
