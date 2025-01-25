@@ -1,4 +1,4 @@
-##App Layout
+## App Layout
   
    Atividade vinculada ao Módulo 2 do curso Desenvolvimento WEB.
   
